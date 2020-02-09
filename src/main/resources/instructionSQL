@@ -1,0 +1,6 @@
+insert into user (name, lastname, email, password, role) values ('Olga', 'Ter', '3@com', '123', 'user');
+insert into user (name, lastname, email, password, role) values ('Alex', 'Ser', '5@com', '321', 'user');
+insert into user (name, lastname, email, password, role) values ('Oleg', 'Har', '7@com', '111', 'user');
+#insert into user (name, lastname, email, password, role) values ('admin', 'Nir', '2@com', '000', 'admin');
+
+#DELETE FROM user;
