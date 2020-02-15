@@ -5,6 +5,6 @@
     <title>User</title>
 </head>
 <body>
-<h1>Привет!</h1>
+<h1>Привет <c:out value="${name}"/>!</h1>
 </body>
 </html>

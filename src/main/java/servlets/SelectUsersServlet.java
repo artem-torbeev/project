@@ -24,6 +24,7 @@ public class SelectUsersServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//        TODO таблица при выводе
         listUser = UserService.getInstance().selectAllUsers();
         req.setAttribute("listUser", listUser);
         req.getRequestDispatcher("/admin.jsp").forward(req, resp);

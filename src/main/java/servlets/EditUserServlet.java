@@ -29,6 +29,6 @@ public class EditUserServlet extends HttpServlet {
         String email = req.getParameter("email");
         UserService.getInstance().updateUser(Long.parseLong(id), name, lastname, email);
 
-        resp.sendRedirect("http://localhost:8080/web_project_war_exploded/admin");
+        resp.sendRedirect(req.getContextPath() + "/admin");
     }
 }

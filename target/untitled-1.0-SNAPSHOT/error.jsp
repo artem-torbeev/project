@@ -2,9 +2,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>User</title>
+    <title>Error</title>
 </head>
 <body>
-<h1>Привет <c:out value="${name}"/>!</h1>
+<h1>У вас нет прав доступа <c:out value="${name}"/>!</h1>
 </body>
 </html>

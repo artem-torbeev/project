@@ -29,15 +29,24 @@ public class LoginServlet extends HttpServlet {
             HttpSession session = req.getSession();
             // кладем в атрибуты сессии атрибут user с ролью пользователя
             if (user.getRole().equals("admin")) {
-                session.setAttribute("user", "admin");
-                resp.sendRedirect("http://localhost:8080/web_project_war_exploded/admin");
+                session.setAttribute("user", user);
+//                TODO исправить пути
+                resp.sendRedirect(req.getContextPath() + "/admin");
             } else {
-                session.setAttribute("user", "user");
-                resp.sendRedirect("http://localhost:8080/web_project_war_exploded/user");
+                session.setAttribute("user", user);
+                resp.sendRedirect(req.getContextPath() + "/user");
             }
-        }  else {
+        } else {
             resp.getWriter().println("Ups");
         }  //            нужна регистрация если нет пользователя в базе
-
     }
 }
+
+
+
+
+
+//                String url = "http://" + request.getServerName() + ":"
+//                        + request.getServerPort() + request.getContextPath()
+//                        + "/login.jsp";
+//                response.sendRedirect(url);

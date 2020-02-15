@@ -28,14 +28,16 @@ public class CreateUserServlet extends HttpServlet {
 
         if (name.equals("admin")) {
             role = "admin";
-        }else {
+        } else {
             role = "user";
         }
 
         UserService.getInstance().insertUser(new User(name, lastname, email, password, role));
 
-        resp.sendRedirect("http://localhost:8080/web_project_war_exploded/admin");
+        resp.sendRedirect(req.getContextPath() + "/admin");
     }
 }
+
+
 /*req.getServletContext().getRequestDispatcher("/login.jsp").forward(req, resp);
-* resp.sendRedirect(req.getContextPath() + "/login");*/
+ * resp.sendRedirect(req.getContextPath() + "/login");*/

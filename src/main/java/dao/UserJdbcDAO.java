@@ -19,8 +19,8 @@ public class UserJdbcDAO implements UserDAO {
     public List<User> selectAllUsers() {
         List<User> userList = new ArrayList<>();
         String sql = "select * from user";
-        try (PreparedStatement stmt = connection.prepareStatement(sql)) {
-            ResultSet result = stmt.executeQuery();
+        try (Statement stmt = connection.createStatement()) {
+            ResultSet result = stmt.executeQuery(sql);
             while (result.next()) {
                 long id = result.getLong("id");
                 String name = result.getString("name");

@@ -6,7 +6,42 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a65689a-a7e7-4a94-b03d-a4ecbb85f571" name="Default Changelist" comment="" />
+    <list default="true" id="9a65689a-a7e7-4a94-b03d-a4ecbb85f571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserJdbcDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserJdbcDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/filter/AdminFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/filter/AdminFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/CreateUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/CreateUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/DeleteUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/DeleteUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/EditUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/EditUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/SelectUsersServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/SelectUsersServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/instructionSQL" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/instructionSQL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dao/UserJdbcDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dao/UserJdbcDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/filter/AdminFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/filter/AdminFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/instructionSQL" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/instructionSQL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/CreateUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/CreateUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/DeleteUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/DeleteUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/EditUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/EditUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/SelectUsersServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/SelectUsersServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/servlets/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/servlets/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/dao/UserJdbcDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/dao/UserJdbcDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/filter/AdminFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/filter/AdminFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/instructionSQL" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/instructionSQL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/CreateUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/CreateUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/DeleteUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/DeleteUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/EditUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/EditUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/SelectUsersServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/SelectUsersServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/servlets/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled-1.0-SNAPSHOT/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/user.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +58,45 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
     <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="48517f0f-6bea-47df-9cd7-8ab598fd2d5f">
+        <node key="db" />
+      </node>
+    </checked>
+    <expanded>
+      <node key="48517f0f-6bea-47df-9cd7-8ab598fd2d5f" />
+    </expanded>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -49,12 +121,24 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.29" />
     <property name="project.structure.side.proportion" value="0.26004463" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webapp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.41" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
@@ -206,15 +290,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:db@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -234,6 +309,13 @@
       <updated>1581241029245</updated>
       <workItem from="1581241035315" duration="1034000" />
       <workItem from="1581242327438" duration="762000" />
+      <workItem from="1581248396052" duration="2174000" />
+      <workItem from="1581264334181" duration="2454000" />
+      <workItem from="1581325536819" duration="20153000" />
+      <workItem from="1581355255020" duration="82000" />
+      <workItem from="1581665274539" duration="55000" />
+      <workItem from="1581686797230" duration="647000" />
+      <workItem from="1581711168273" duration="415000" />
     </task>
     <servers />
   </component>
@@ -241,6 +323,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="202" width="804" height="677" key="#Assign_Data_Sources" timestamp="1581329662620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="202" width="804" height="677" key="#Assign_Data_Sources/0.0.1920.1080@0.0.1920.1080" timestamp="1581329662620" />
     <state x="555" y="202" width="804" height="677" key="#SQL_Dialects" timestamp="1581242407391">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -249,6 +335,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="418" y="199" width="1113" height="750" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581242386520" />
+    <state x="768" y="247" width="378" height="587" key="#com.intellij.ide.util.MemberChooser" timestamp="1581341294192">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="247" width="378" height="587" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581341294192" />
     <state x="538" y="143" width="838" height="796" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581241072820">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -257,61 +347,73 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="887" y="615" width="492" height="196" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581242820348" />
-    <state x="745" y="491" width="526" height="519" key="FileChooserDialogImpl" timestamp="1581242809330">
+    <state x="782" y="203" width="571" height="777" key="ExecutionTargetDialog" timestamp="1581335183314">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="745" y="491" width="526" height="519" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581242809330" />
-    <state width="1570" height="390" key="GridCell.Tab.0.bottom" timestamp="1581243091821">
+    <state x="782" y="203" width="571" height="777" key="ExecutionTargetDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581335183314" />
+    <state x="745" y="491" width="526" height="519" key="FileChooserDialogImpl" timestamp="1581277894728">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091821" />
-    <state width="1570" height="390" key="GridCell.Tab.0.center" timestamp="1581243091820">
+    <state x="745" y="491" width="526" height="519" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581277894728" />
+    <state width="1570" height="167" key="GridCell.Tab.0.bottom" timestamp="1581354438418">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091820" />
-    <state width="1570" height="390" key="GridCell.Tab.0.left" timestamp="1581243091819">
+    <state width="1570" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438418" />
+    <state width="1570" height="167" key="GridCell.Tab.0.center" timestamp="1581354438416">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091819" />
-    <state width="1570" height="390" key="GridCell.Tab.0.right" timestamp="1581243091820">
+    <state width="1570" height="167" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438416" />
+    <state width="1570" height="167" key="GridCell.Tab.0.left" timestamp="1581354438415">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091820" />
-    <state width="1570" height="390" key="GridCell.Tab.1.bottom" timestamp="1581243091823">
+    <state width="1570" height="167" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438415" />
+    <state width="1570" height="167" key="GridCell.Tab.0.right" timestamp="1581354438417">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091823" />
-    <state width="1570" height="390" key="GridCell.Tab.1.center" timestamp="1581243091822">
+    <state width="1570" height="167" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438417" />
+    <state width="1570" height="167" key="GridCell.Tab.1.bottom" timestamp="1581354438420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091822" />
-    <state width="1570" height="390" key="GridCell.Tab.1.left" timestamp="1581243091821">
+    <state width="1570" height="167" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438420" />
+    <state width="1570" height="167" key="GridCell.Tab.1.center" timestamp="1581354438419">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091821" />
-    <state width="1570" height="390" key="GridCell.Tab.1.right" timestamp="1581243091822">
+    <state width="1570" height="167" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438419" />
+    <state width="1570" height="167" key="GridCell.Tab.1.left" timestamp="1581354438419">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091822" />
-    <state width="1570" height="390" key="GridCell.Tab.2.bottom" timestamp="1581243091825">
+    <state width="1570" height="167" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438419" />
+    <state width="1570" height="167" key="GridCell.Tab.1.right" timestamp="1581354438420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091825" />
-    <state width="1570" height="390" key="GridCell.Tab.2.center" timestamp="1581243091824">
+    <state width="1570" height="167" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438420" />
+    <state width="1570" height="167" key="GridCell.Tab.2.bottom" timestamp="1581354438422">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091824" />
-    <state width="1570" height="390" key="GridCell.Tab.2.left" timestamp="1581243091824">
+    <state width="1570" height="167" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438422" />
+    <state width="1570" height="167" key="GridCell.Tab.2.center" timestamp="1581354438421">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091824" />
-    <state width="1570" height="390" key="GridCell.Tab.2.right" timestamp="1581243091825">
+    <state width="1570" height="167" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438421" />
+    <state width="1570" height="167" key="GridCell.Tab.2.left" timestamp="1581354438420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1570" height="390" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581243091825" />
+    <state width="1570" height="167" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438420" />
+    <state width="1570" height="167" key="GridCell.Tab.2.right" timestamp="1581354438421">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1570" height="167" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581354438421" />
     <state x="266" y="63" width="1446" height="845" key="SettingsEditor" timestamp="1581243022962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="266" y="63" width="1446" height="845" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581243022962" />
+    <state x="439" y="133" width="1035" height="815" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581338036054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="439" y="133" width="1035" height="815" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581338036054" />
+    <state x="149" y="235" width="1616" height="611" key="new project wizard" timestamp="1581347058546">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="149" y="235" width="1616" height="611" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1581347058546" />
   </component>
 </project>
